@@ -43,7 +43,7 @@ Connect the RFID reader and OLED display to the Arduino as per the following con
 - SCL -> Analog Pin 5
 - SDA -> Analog Pin 4
 
-> [!WARNING]
+> [!CAUTION]
 > The RFID reader must be connected to the 3.3V output of the Arduino Uno to avoid damage.
 
 
